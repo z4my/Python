@@ -4,47 +4,47 @@ b= 2
 
 ##Arithmetic operators
 # +, -, *, /, %, **, //
-print(a + b) # addition
-print(a - b) # subtraction
-print(a * b) # multiplication
-print(a / b) # division
-print(a % b) # modulus
-print(a ** b) # exponentiation
-print(a // b) # floor division
+#print(a + b) # addition
+#print(a - b) # subtraction
+#print(a * b) # multiplication
+#print(a / b) # division
+#print(a % b) # modulus
+#print(a ** b) # exponentiation
+#print(a // b) # floor division
 
 
 ##Comparison operators
 # ==, !=, >, <, >=, <=
-print(a == b) # equal to
-print(a != b) # not equal to
-print(a > b) # greater than
-print(a < b) # less than
-print(a >= b) # greater than or equal to
-print(a <= b) # less than or equal to
+#print(a == b) # equal to
+#print(a != b) # not equal to
+#print(a > b) # greater than
+#print(a < b) # less than
+#print(a >= b) # greater than or equal to
+#print(a <= b) # less than or equal to
 
 ##Assignment operators
 # =, +=, -=, *=, /=, %=, **=, //=
 # += : addition assignment
 #a+= 5 
-print("a :", a)
+#print("a :", a)
 # -= : subtraction assignment
 #a-= 5 
-print("a :", a)
+#print("a :", a)
 # *= : multiplication assignment
 #a*= 5 
-print("a :", a)
+#print("a :", a)
 # /= : division assignmen
 #a/= 5 
-print("a :", a)
+#print("a :", a)
 # %= : modulus assignment
 #a%= 5 
-print("a :", a)
+#print("a :", a)
 # **= : exponentiation assignment
 #a**= 5 
-print("a :", a)
+#print("a :", a)
 # //= : floor division assignment
 #a//= 5 
-print("a :", a)
+#print("a :", a)
 
 
 ##Logical operators
@@ -53,18 +53,18 @@ val1= False
 val2= False
 
 # and : logical and
-print(val1 and val2) # false
-print(val1 and True) # false
+#print(val1 and val2) # false
+#print(val1 and True) # false
 # Both values should be true to return true
 
 # not : logical not
-print(not False) # true 
-print(not True) # false
+#print(not False) # true 
+#print(not True) # false
 # It reverses the value of the operand
 
 # or : logical or
-print(val1 or val2) # false
-print(val1 or True) # true
+#print(val1 or val2) # false
+#print(val1 or True) # true
 # Atleast one value should be true to return true
 
 
